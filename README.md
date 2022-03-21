@@ -25,3 +25,5 @@ Assignment5
   BST
 - rotateLeft
 - rotateRight
+
+P.S. I would not be respnsible if someone copies these codes for their assignment.
